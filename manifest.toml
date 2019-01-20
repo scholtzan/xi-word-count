@@ -1,0 +1,3 @@
+name = "word-count-plugin"
+version = "0.01"
+exec_path = "./bin/xi-word-count-plugin"

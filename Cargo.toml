@@ -1,0 +1,25 @@
+[package]
+name = "xi-word-count-plugin"
+version = "0.0.1"
+license = "MIT"
+authors = ["Anna Scholtz <anna@scholtzan.net>"]
+repository = ""
+description = "A plugin to count words in xi-editor"
+edition = '2018'
+
+[dependencies]
+serde = "1.0"
+serde_derive = "1.0"
+regex = "1"
+
+[dependencies.xi-plugin-lib]
+path = "../xi-mac/xi-editor/rust/plugin-lib"
+
+[dependencies.xi-core-lib]
+path = "../xi-mac/xi-editor/rust/core-lib"
+
+[dependencies.xi-rope]
+path = "../xi-mac/xi-editor/rust/rope"
+
+[dependencies.xi-trace]
+path = "../xi-mac/xi-editor/rust/trace"
