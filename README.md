@@ -1,6 +1,6 @@
-# Word Count Plugin for Xi-editor
+# Word Count Plugin for Xi Editor
 
-A very simple plugin that shows the number of characters, words and lines in the status bar of [xi-editor](https://github.com/xi-editor/xi-editor).
+A very simple plugin that shows the number of characters, words and lines in the status bar of [xi editor](https://github.com/xi-editor/xi-editor).
 
 ![Screenshot](screenshot.png)
 
