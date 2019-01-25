@@ -1,4 +1,4 @@
-# Word cound plugin for xi-editor
+# Word count plugin for xi-editor
 
 ## Installation
 
